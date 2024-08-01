@@ -3,7 +3,7 @@
 This guide explains how to set up and launch a [Spring Boot](https://spring.io/) (Java) application with Apache using Docker.
 
 ## Prerequisites
-
+  
 Before starting, ensure you have the following tools installed on your machine:
 
 - [Docker](https://www.docker.com/products/docker-desktop)
